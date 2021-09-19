@@ -1,13 +1,13 @@
 h6 {
     color:black; 
-    font-size: 30px; 
+    font-size: 20px; 
     font-family:Times New Roman
 }
 p.r{ 
    color:black; 
    font-size: 23px; 
    font-family:Verdana; 
-   background-color: rgb(159, 216, 159);
+   background-color: rgb(136, 163, 136);
 }
 p { color:black;
    font-size: 17px; 
@@ -23,18 +23,18 @@ h6.MRS.ALLONBY{
 h6.LADY_STUTFIELD{ 
    color:violet; 
    font-size: 10px;
-   font-family:Arial
+   font-family:Arial;
 }
 h6.LADY_CAROLINE{ 
    color:gold; 
    font-size: 10px;
-   font-family:Arial
+   font-family:Arial;
 }
 
 h6.LADY_HUNSTANTON{
     color:hotpink;
     font-size: 10px;
-    font-family: Arial
+    font-family: Arial;
 }
 
 p.r:hover {
