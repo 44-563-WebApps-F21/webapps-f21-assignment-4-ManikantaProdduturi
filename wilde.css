@@ -1,0 +1,65 @@
+h6 {
+    color:black; 
+    font-size: 30px; 
+    font-family:Times New Roman
+}
+p.r{ 
+   color:black; 
+   font-size: 23px; 
+   font-family:Verdana; 
+   background-color: rgb(159, 216, 159);
+}
+p { color:black;
+   font-size: 17px; 
+   font-family:Arial
+}
+
+h6.MRS.ALLONBY{
+    color:Turquoise; 
+    font-size: 10px; 
+    font-family:Arial;
+}
+
+h6.LADY_STUTFIELD{ 
+   color:violet; 
+   font-size: 10px;
+   font-family:Arial
+}
+h6.LADY_CAROLINE{ 
+   color:gold; 
+   font-size: 10px;
+   font-family:Arial
+}
+
+h6.LADY_HUNSTANTON{
+    color:hotpink;
+    font-size: 10px;
+    font-family: Arial
+}
+
+p.r:hover {
+   background-color: skyblue;
+}
+
+h6.MRS.ALLONBY:hover
+{
+   text-shadow: 2px 2px 5px rgb(0, 255, 149);
+   border-style:groove;
+}
+h6.LADY_STUTFIELD:hover 
+{
+   text-shadow: 2px 2px 5px rgb(0, 255, 76);
+   border-style:groove;
+
+}
+h6.LADY_CAROLINE:hover
+{
+   text-shadow: 2px 2px 5px rgb(0, 255, 170);
+   border-style:groove;
+}
+h6.LADY_HUNSTANTON:hover
+{
+text-shadow: 2px 2px 5px rgb(32, 207, 84);
+border-style:groove;
+}
+
