@@ -15,27 +15,27 @@ p.stage-direction{
     font-family: 'Times New Roman';
     font-size: 18px;
     color: black;
-    background-color: rgb(245, 7, 245);
+    background-color: lightpink;
 }
 
 p.stage-direction:hover {
-    background-color:rgb(15, 233, 124);
-    color:rgb(111, 1, 214);
+    background-color:skyblue;
+    color:rgb(12, 106, 150);
 }
 
-h6.MRS.ALLONBY{
+h6.ALLONBY{
     font-family: sans-serif;
-    color:darkblue;
+    color:rgb(219, 129, 12);
 }
 
 h6.LADY_STUTFIELD{
     font-family: Helvetica, sans-serif;
-    color:crimson;
+    color:rgb(214, 24, 205);
 }
 
 h6.LADY_CAROLINE{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color:darkgreen;
+    color:rgb(100, 0, 58);
 }
 
 h6.LADY_HUNSTANTON{
@@ -43,10 +43,10 @@ h6.LADY_HUNSTANTON{
     color:darkgreen;
 }
 
-h6.MRS.ALLONBY:hover{
+h6.ALLONBY:hover{
     text-shadow: 2px 3px 4px rgb(157, 209, 15);
     border-style:solid;
-    color:darkslategrey;
+    color:rgb(221, 218, 22);
 }
 
 h6.LADY_STUTFIELD:hover{
@@ -99,3 +99,21 @@ table.table_actors th {
     color: white;
 }
 
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:20px;
+    color: rgb(19, 18, 17);
+}
+ul.navbar-horizontal a:hover {
+    background-color: darkslateblue;
+    color:yellowgreen;
+}
