@@ -114,6 +114,6 @@ ul.navbar-horizontal a {
     color: rgb(19, 18, 17);
 }
 ul.navbar-horizontal a:hover {
-    background-color: darkslateblue;
+    background-color: rgb(214, 115, 21);
     color:yellowgreen;
 }
