@@ -18,6 +18,7 @@ p.stage-direction{
     background-color: lightpink;
 }
 
+
 p.stage-direction:hover {
     background-color:skyblue;
     color:rgb(12, 106, 150);
